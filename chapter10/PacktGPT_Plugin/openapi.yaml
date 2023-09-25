@@ -1,0 +1,21 @@
+openapi: 3.0.1
+info:
+  title: ElasticGPT_Plugin
+  description: Retrieve information from the most recent Elastic documentation
+  version: 'v1'
+servers:
+  - url: PLUGIN_HOSTNAME
+paths:
+  /search:
+    get:
+      operationId: search
+      summary: retrieves the document matching the query
+      parameters:
+      - in: query
+        name: query
+        schema:
+            type: string
+        description: use to filter relevant part of the elasticsearch documentations 
+      responses:
+        "200":
+          description: OK
