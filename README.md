@@ -1,2 +1,2 @@
 # Vector-Search-with-Elastic
-, published by Packt
+published by Packt
