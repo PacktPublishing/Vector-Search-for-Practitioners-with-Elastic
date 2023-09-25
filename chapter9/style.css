@@ -1,0 +1,22 @@
+header {
+    background-color:  #3e6879 !important;
+}
+
+.main {
+    background-color: #3e6879;
+}
+
+#column-1 {
+    background-image: url("https://i.ibb.co/bWDhmTg/Screenshot-2023-07-28-at-11-06-56-PM.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 500px;
+    width: 350px;
+    color: transparent;
+}
+
+#column-2 {
+    color: transparent;
+    padding-top: 80px;
+    width: 550px;
+}
