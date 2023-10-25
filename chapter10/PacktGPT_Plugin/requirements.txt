@@ -105,7 +105,7 @@ uvicorn==0.23.2
 uvloop==0.17.0
 watchfiles==0.20.0
 websockets==11.0.3
-Werkzeug==2.3.7
+Werkzeug==3.0.1
 wsproto==1.2.0
 yarl==1.9.2
 youtube-transcript-api==0.6.1
