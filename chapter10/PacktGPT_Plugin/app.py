@@ -38,7 +38,7 @@ def ESSearch(query_text):
   cu = os.environ['cloud_user']
   es = es_connect(cid, cu, cp)
 
-  # Elasticsearch query (BM25) and kNN configuration for hybrid search
+  # Elasticsearch query (BM25)
   query = {
     "bool": {
       "filter": [
