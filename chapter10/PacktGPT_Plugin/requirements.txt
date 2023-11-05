@@ -60,7 +60,7 @@ onnxruntime==1.15.1
 openai==0.27.9
 overrides==7.4.0
 packaging==23.1
-Pillow==10.0.0
+Pillow==10.0.1
 posthog==3.0.2
 priority==2.0.0
 protobuf==4.24.2
