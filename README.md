@@ -1,25 +1,24 @@
-# Learning Geospatial Analysis with Python
+# Vector Search for Practitioners with Elastic
 
-<a href="https://www.packtpub.com/product/vector-search-for-practitioners-with-elastic/9781805121022?utm_source=github&utm_medium=repository&utm_id=9781805121022"><img src="https://content.packt.com/B13346/cover_image_small.png" alt="Learning Geospatial Analysis with Python" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/vector-search-for-practitioners-with-elastic/9781805121022?utm_source=github&utm_medium=repository&utm_id=9781805121022"><img src="https://content.packt.com/B20870/cover_image_small.jpg" alt="Vector Search for Practitioners with Elastic" height="256px" align="right"></a>
 
-This is the code repository for [Learning Geospatial Analysis with Python](https://www.packtpub.com/product/vector-search-for-practitioners-with-elastic/9781805121022?utm_source=github&utm_medium=repository&utm_id=9781805121022), published by Packt.
+This is the code repository for [Vector Search for Practitioners with Elastic](https://www.packtpub.com/product/vector-search-for-practitioners-with-elastic/9781805121022?utm_source=github&utm_medium=repository&utm_id=9781805121022), published by Packt.
 
-**Unleash the power of Python 3 with practical techniques for learning GIS and remote sensing**
+**A toolkit for building NLP solutions for search, observability, and security using vector search**
 
 ## What is this book about?
-The Statistics and Machine Learning with R Workshop is a comprehensive resource packed with insights into statistics and machine learning, along with a deep dive into R libraries. The learning experience is further enhanced by practical examples and hands-on exercises that provide explanations of key concepts.
+While natural language processing (NLP) is largely used in search use cases, this book aims to inspire you to start using vectors to overcome equally important domain challenges like observability and cybersecurity. The chapters focus mainly on integrating vector search with Elastic to enhance not only their search but also observability and cybersecurity capabilities.
 
 This book covers the following exciting features: 
-* Automate geospatial analysis workflows using Python
-* Understand the different formats in which geospatial data is available
-* Unleash geospatial tech tools to create stunning visualizations
-* Create thematic maps with Python tools such as PyShp, OGR, and the Python Imaging Library
-* Build a geospatial Python toolbox for analysis and application development
-* Unlock remote sensing secrets, detect changes, and process imagery
-* Leverage ChatGPT for solving Python geospatial solutions
-* Apply geospatial analysis to real-time data tracking and storm chasing
+* Optimize performance by harnessing the capabilities of vector search
+* Explore image vector search and its applications
+* Detect and mask personally identifiable information
+* Implement log prediction for next-generation observability
+* Use vector-based bot detection for cybersecurity
+* Visualize the vector space and explore Search.Next with Elastic
+* Implement a RAG-enhanced application using Streamlit
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B0CGM6RWMK) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1805121022) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -40,7 +39,7 @@ number is <SSN>'
 
 
 **Following is what you need for this book:**
-This book is for beginner to intermediate-level data scientists, undergraduate to masters-level students, and early to mid-senior data scientists or analysts looking to expand their knowledge of machine learning by exploring various R libraries. Basic knowledge of linear algebra and data modeling is a must.	
+If you're a data professional with experience in Elastic observability, search, or cybersecurity and are looking to expand your knowledge of vector search, this book is for you. This book provides practical knowledge useful for search application owners, product managers, observability platform owners, and security operations center professionals. Experience in Python, using machine learning models, and data management will help you get the most out of this book.	
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
 
@@ -60,22 +59,23 @@ System requirements are mentioned in the following table:
 | Python 3.9+                                    |                                    |
 | Jupyter Notebook                               |
 
-Follow the instructions for the latest Anaconda installation. All scripts in this book assume you will
-run the code from the command line within an Anaconda Python environment. If you try to use
-Jupyter Notebooks, you may get unpredictable results.
 
 ### Related products <Other books you may enjoy>
-* Building Statistical Models in Python[[Packt]](https://www.packtpub.com/product/Building-Statistical-Models-in-Python/9781800565661) [[Amazon]](https://www.amazon.com/dp/1804614289)
+* Machine Learning with PyTorch and Scikit-Learn [[Packt]](https://www.packtpub.com/product/Machine-Learning-with-PyTorch-and-Scikit-Learn/9781801819312) [[Amazon]](https://www.amazon.com/dp/1801819319)
 
-* Enhancing Deep Learning with Bayesian Inference [[Packt]](https://www.packtpub.com/product/Enhancing-Deep-Learning-with-Bayesian-Inference/9781803246888) [[Amazon]](https://www.amazon.com/dp/180324688X)
+* Graph Machine Learning [[Packt]](https://www.packtpub.com/product/Graph-Machine-Learning/9781800204492) [[Amazon]](https://www.amazon.com/dp/1800204493)
 
-## Get to Know the Author
-**oel Lawhead**
- is a PMI-certified Project Management Professional (PMP), a certified GIS Professional
-(GISP), and vice president of NVision Solutions, Inc., an award-winning firm specializing in geospatial
-technology integration and sensor engineering for NASA, FEMA, NOAA, the US Navy, and many other
-commercial and non-profit organizations. Joel began using Python in 1997 and started combining
-it with geospatial software development in 2000. He has authored multiple editions of Learning
-Geospatial Analysis with Python and QGIS Python Programming Cookbook, both from Packt. He is
-also the developer of the open source Python Shapefile Library (PyShp) and maintains a geospatial
-technical blog at GeospatialPython.com
+## Get to Know the Authors
+**Bahaaldine Azarmi**, 
+Global VP Customer Engineering at Elastic, guides companies as they leverage
+data architecture, distributed systems, machine learning, and generative AI. He leads the customer
+engineering team, focusing on cloud consumption, and is passionate about sharing knowledge to
+build and inspire a community skilled in AI.
+
+**Jeff Vestal**
+has a rich background spanning over a decade in financial trading firms and extensive
+experience with Elasticsearch. He offers a unique blend of operational acumen, engineering skill,
+and machine learning expertise. As a Principal Customer Enterprise Architect, he excels at crafting
+innovative solutions, leveraging Elasticsearch’s advanced search capabilities, machine learning
+features, and generative AI integrations, adeptly guiding users to transform complex data challenges
+into actionable insights.
