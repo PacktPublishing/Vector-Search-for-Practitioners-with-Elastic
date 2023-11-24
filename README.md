@@ -41,7 +41,7 @@ number is <SSN>'
 **Following is what you need for this book:**
 If you're a data professional with experience in Elastic observability, search, or cybersecurity and are looking to expand your knowledge of vector search, this book is for you. This book provides practical knowledge useful for search application owners, product managers, observability platform owners, and security operations center professionals. Experience in Python, using machine learning models, and data management will help you get the most out of this book.	
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
 
 
 ### Software and Hardware List
