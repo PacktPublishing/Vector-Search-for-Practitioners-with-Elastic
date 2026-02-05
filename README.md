@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
+
 # Vector Search for Practitioners with Elastic
 
 <a href="https://www.packtpub.com/product/vector-search-for-practitioners-with-elastic/9781805121022?utm_source=github&utm_medium=repository&utm_id=9781805121022"><img src="https://content.packt.com/B20870/cover_image_small.jpg" alt="Vector Search for Practitioners with Elastic" height="256px" align="right"></a>
