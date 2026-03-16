@@ -100,7 +100,7 @@ tqdm==4.66.1
 transformers==4.32.0
 typing-inspect==0.9.0
 typing_extensions==4.7.1
-urllib3==1.26.16
+urllib3==1.26.18
 uvicorn==0.23.2
 uvloop==0.17.0
 watchfiles==0.20.0
